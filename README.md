@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mo__ramdan" target="blank"><img src="https://img.shields.io/twitter/follow/mo__ramdan?logo=twitter&style=for-the-badge" alt="mo__ramdan" /></a> </p>
 
-- 🌱 I’m currently learning **SWIFT**
+- 🌱 I’m currently learning **SWIFT ** 
 
 - 💬 Ask me about **Python, Django, Java, BPM, ODM, Rails, Nodejs, Data science,**
 
