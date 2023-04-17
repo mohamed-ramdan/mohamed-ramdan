@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-ramdan" alt="mohamed-ramdan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mo__ramdan" target="blank"><img src="https://img.shields.io/twitter/follow/mo__ramdan?logo=twitter&style=for-the-badge" alt="mo__ramdan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mormdan91" target="blank"><img src="https://img.shields.io/twitter/follow/mormdan91?logo=twitter&style=for-the-badge" alt="mormdan91" /></a> </p>
 
 - 🌱 I’m currently learning **SWIFT ** 
 
